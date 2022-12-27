@@ -1,2 +1,2 @@
 # UserAccounts
-Website with use accounts
+Website with user accounts
